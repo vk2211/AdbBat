@@ -126,3 +126,6 @@ rem		echo 您选择了 %user_selection%. %%deviceSn[!s!]%%
 :end
 
 ```
+
+
+# no_device_info
